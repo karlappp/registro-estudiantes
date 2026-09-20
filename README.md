@@ -1,2 +1,2 @@
 # registro-estudiantes
-Proyecto en Python para registrar estudiantes”.
+Proyecto en Python para registrar estudiantes
