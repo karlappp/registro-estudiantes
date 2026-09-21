@@ -1,3 +1,4 @@
+
 # Registro de Estudiantes
 Proyecto en Python para registrar estudiantes, practicar Git y GitHub.
 
@@ -6,3 +7,7 @@ Proyecto en Python para registrar estudiantes, practicar Git y GitHub.
 - Mostrar lista completa
 - Eliminar estudiantes
 - los nuevos estudiantes deben ser agregados en la carpeta 
+
+# registro-estudiantes
+Proyecto en Python para registrar estudiantes
+
