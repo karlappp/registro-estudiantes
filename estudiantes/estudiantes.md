@@ -12,5 +12,4 @@
 
 ## Notas
 - Se pueden agregar más estudiantes
-- Cada estudiante debe estar en su propia sección
 - Usar nombres claros y completos
